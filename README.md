@@ -1,17 +1,64 @@
-# tip_calculator
+## Flutter Tip Calculator
 
-A new Flutter project.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+###### A simple and user-friendly Tip Calculator application developed using Flutter and Dart.
 
-A few resources to get you started if this is your first Flutter project:
+###### 
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+###### **Features**
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+###### \- Enter the total bill amount.
+
+###### \- Calculate tips based on a percentage.
+
+###### \- View the calculated tip amount.
+
+###### \- View the total bill including the tip.
+
+###### \- Simple and easy-to-use interface.
+
+###### 
+
+###### **Technologies Used**
+
+###### \- Flutter
+
+###### \- Dart
+
+###### \- Visual Studio Code
+
+###### 
+
+###### **Installation and Setup**
+
+###### 1\. Clone this repository.
+
+###### 2\. Open the project folder.
+
+###### 3\. Run `flutter pub get`.
+
+###### 4\. Run `flutter run`.
+
+###### 
+
+###### **Testing**
+
+###### Run the following commands:
+
+###### flutter analyze
+
+###### flutter test
+
+###### 
+
+###### **Developer**
+
+###### Patrick Torres
+
+###### 
+
+###### **Project**
+
+###### Flutter Tip Calculator – Mobile Programming Lab
+
