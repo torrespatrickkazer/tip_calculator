@@ -23,4 +23,11 @@ void main() {
     expect(result.tip, 100.0);
     expect(result.total, 600.0);
   });
+
+  test('calculates zero percent tip correctly', () {
+    final result = computeTip(500, 0);
+
+    expect(result.tip, 0.0);
+    expect(result.total, 500.0);
+  });
 }
